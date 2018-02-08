@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SideMenuController-Swift4_Example' do
+  pod 'SideMenuController-Swift4', :path => '../'
+
+  target 'SideMenuController-Swift4_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
