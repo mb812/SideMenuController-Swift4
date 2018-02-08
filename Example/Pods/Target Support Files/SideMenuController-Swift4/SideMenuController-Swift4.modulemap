@@ -1,0 +1,6 @@
+framework module SideMenuController_Swift4 {
+  umbrella header "SideMenuController-Swift4-umbrella.h"
+
+  export *
+  module * { export * }
+}
