@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "SideMenuController.h"
 
 FOUNDATION_EXPORT double SideMenuController_Swift4VersionNumber;
 FOUNDATION_EXPORT const unsigned char SideMenuController_Swift4VersionString[];

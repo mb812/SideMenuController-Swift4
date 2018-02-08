@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import SideMenuController-Swift4
+import SideMenuController_Swift4
 
 class Tests: XCTestCase {
     
